@@ -1,0 +1,19 @@
+{
+  "name": "calc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VamshiKrishnaAlladi/calc.git"
+  },
+  "author": "Vamshi Krishna Alladi <vamshikrishnaalladi.me@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/VamshiKrishnaAlladi/calc/issues"
+  },
+  "homepage": "https://github.com/VamshiKrishnaAlladi/calc#readme"
+}
