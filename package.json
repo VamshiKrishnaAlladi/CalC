@@ -23,7 +23,7 @@
     "homepage": "https://github.com/VamshiKrishnaAlladi/calc#readme",
     "dependencies": {
         "cli-max": "4.0.1",
-        "minimist": "1.2.0"
+        "minimist": "1.2.3"
     },
     "devDependencies": {
         "@types/node": "12.7.2",
